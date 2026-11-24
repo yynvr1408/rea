@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj": {}
+    "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\security\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj": {
+    "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\security\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+        "projectUniqueName": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\security\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
         "projectName": "NativeAotFixture",
-        "projectPath": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+        "projectPath": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\security\\rea\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
         "packagesPath": "C:\\Users\\Nandhi vardhan reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\rea\\tests\\fixtures\\nativeaot\\obj\\",
+        "outputPath": "C:\\Users\\Nandhi vardhan reddy\\Desktop\\Projects\\security\\rea\\tests\\fixtures\\nativeaot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
