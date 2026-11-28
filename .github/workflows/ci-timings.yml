@@ -19,6 +19,7 @@ jobs:
     name: Collect recent completed workflow attempts
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    if: github.event_name != 'schedule' || github.repository == 'morluto/rea'
     steps:
       # Consume only API data and execute batch code from the trusted default branch.
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0

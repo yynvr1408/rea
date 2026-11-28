@@ -53,6 +53,7 @@ jobs:
     name: Classify changes
     runs-on: ubuntu-24.04
     timeout-minutes: 5
+    if: github.event_name != 'schedule' || github.repository == 'morluto/rea'
     env:
       # Release Please must satisfy the existing required CI gate on the PR merge candidate.
       CI_FULL: >-

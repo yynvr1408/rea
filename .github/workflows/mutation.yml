@@ -23,6 +23,7 @@ env:
 jobs:
   mutation:
     name: Mutation sweep (${{ matrix.suite }})
+    if: github.event_name != 'schedule' || github.repository == 'morluto/rea'
     runs-on: ubuntu-latest
     # The complete reverse-tools sweep hit the previous 60-minute job limit.
     timeout-minutes: 90
